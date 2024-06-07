@@ -1,5 +1,5 @@
 <template>
-  <el-table :data="tableData" style="width: 100%" stripe="">
+  <el-table :data="tableData" style="width: 100%" stripe>
     <el-table-column prop="date" label="日期" width="100" />
     <el-table-column prop="total" label="总计" width="120" />
     <el-table-column prop="maintain" label="维护费" width="110" />
