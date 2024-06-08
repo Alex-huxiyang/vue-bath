@@ -30,7 +30,7 @@ const tableData = [
   {
     date: "2024-06-04",
     name: "Tom",
-    techWorker: "California",
+    techWorker: "dddd",
     commonWorker: "Los Angeles",
     helpWorker: "No. 189, Grove St, Los Angeles",
     other: "CA 90036"
